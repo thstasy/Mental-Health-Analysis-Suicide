@@ -9,7 +9,7 @@ Mental health and suicide rates remain crucial global concerns, with many countr
 
 ### **1. Suicide Rates vs. Mental Health Spending**
 
-![Suicide Rates vs. Mental Health Spending](./Suicide_Rates_vs._Mental_Health_Spending.png)
+<img src="./Suicide_Rates_vs._Mental_Health_Spending.png" alt="Suicide Rates vs. Mental Health Spending" width="50%" height="50%">
 
 #### **What the Data Shows**:
 1. **Spending Does Not Always Correlate with Lower Suicide Rates**:
@@ -37,7 +37,7 @@ Mental health and suicide rates remain crucial global concerns, with many countr
 
 ### **2. Suicide Rates Over Time by Country and Gender**
 
-![Suicide Rates Over Time by Country and Gender](./Suicide_Rates_Over_Time_by_Country_and_Gender.png)
+<img src="./Suicide_Rates_Over_Time_by_Country_and_Gender.png" alt="Suicide Rates Over Time by Country and Gender" width="50%" height="50%">
 
 #### **What the Data Shows**:
 1. **Males Consistently Have Higher Suicide Rates**:
@@ -79,13 +79,13 @@ The data from both graphs reveal that suicide rates are influenced by multiple f
 ### **Appendix: Data Cleaning Process**
 
 1. **File Merging**:
-   - Suicide rate data from **File 1** was merged with mental health spending data from **File 6** based on the **Country** field to facilitate comparisons.
+   - Suicide rate data from **16BBF41_ALL_LATEST.csv** was merged with mental health spending data from **mental_healthcare.csv** based on the **Country** field to facilitate comparisons.
    
 2. **Handling Missing Values**:
    - Countries with missing data on mental health spending were either imputed using average regional values or excluded from relevant analyses.
 
 3. **Gender Grouping**:
-   - Data from **File 2** was grouped by **Year**, **Country**, and **Gender**, which allowed us to track the trend of suicide rates across time and analyze gender-specific trends.
+   - Data from **Crude_Suicide_Rates_Per_100k_EN.csv** was grouped by **Year**, **Country**, and **Gender**, which allowed us to track the trend of suicide rates across time and analyze gender-specific trends.
 
 ---
 
