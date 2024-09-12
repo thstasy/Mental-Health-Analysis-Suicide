@@ -5,6 +5,8 @@
 ### **Introduction**
 Mental health and suicide rates remain crucial global concerns, with many countries grappling with how to reduce suicide rates effectively. Despite increased mental health spending in various regions, we see discrepancies between financial investment and outcomes. This report explores the correlation between suicide rates and mental health spending, as well as gender-specific trends over time, using visual data analysis to uncover deeper insights and potential actions.
 
+Tableau link: https://public.tableau.com/views/Suicideanalysis_17261831878800/SuicideRatesvs_MentalHealthSpending?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ---
 
 ### **1. Suicide Rates vs. Mental Health Spending**
